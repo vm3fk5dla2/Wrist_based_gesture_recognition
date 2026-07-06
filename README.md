@@ -13,8 +13,6 @@ The code supports the following workflow:
 2. **Model training and validation** using an ultra-light 1-D CNN.
 3. **Real-time BLE inference** with calibration, min–max normalization, live signal monitoring, CSV logging, and cursor-feedback control.
 
-> **Publication note.** Before public release, replace all placeholders in this README, archive the final code release with a persistent identifier such as a DOI, add a licence, and provide either the raw/processed data or a precise data-access statement. A GitHub link alone is not sufficient for long-term reproducibility.
-
 ---
 
 ## Contents
