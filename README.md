@@ -1,4 +1,4 @@
-# [Manuscript title]: A biomechanical wrist interface for continuous finger-level interaction
+# [Manuscript title]: High-fidelity biomechanical wrist sensing for continuous finger-level interaction
 
 [![Paper](https://img.shields.io/badge/Paper-Nature%20Portfolio-lightgrey)]([ARTICLE_URL])
 [![Code DOI](https://img.shields.io/badge/Code%20DOI-[DOI]-blue)]([CODE_DOI_URL])
